@@ -14,7 +14,11 @@ lending decisions.
 
 Project KPI'S:
 
-Year wise loan amount Stats, Grade and sub-grade wise revolving balance, Total Payment for Verified Vs Non-Verified Status, State wise and last-credit-pull-d wise loan status, Home ownership Vs last payment date stats
+KPI 1:Year wise loan amount Stats
+KPI 2:Grade and sub-grade wise revolving balance
+KPI 3:Total Payment for Verified Vs Non-Verified Status
+KPI 4:State wise and last-credit-pull-d wise loan status
+KPI 5:Home ownership Vs last payment date stats
 
 Key Insights:
 
